@@ -208,7 +208,7 @@ Multiplayer information
 The main Python file contains the complete game implementation, including rendering, game state management, player controls, weapons, enemies, collision detection, multiplayer functionality, HUD, and GLUT callbacks.
 
 ⚙️ Installation
-1. Clone the Repository
+1. Clone the Repository- https://github.com/ishraqsabbir7-blip/-Nova-Siege-3D-Space-Shooter/tree/main
 
 cd PyOpenGL-Space-Shooter-Game
 2. Install Python
@@ -226,7 +226,6 @@ sudo apt install freeglut3-dev
 4. Run the Game
 Because the Python filename contains spaces, run it using:
 
-python3 "Group 7-Ishraq Sabbir Rafsan-23301598-cse 423 final project-11.py"
 🎯 How to Play
 Launch the game.
 
@@ -275,7 +274,6 @@ Real-time rendering
 Interactive input handling
 2D HUD over 3D scenes
 
-Ishraq Sabbir Rafsan
 
 📌 Project Highlights
 3D Graphics
